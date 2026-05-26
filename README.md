@@ -18,8 +18,7 @@ Este proyecto consiste en un **Dashboard Ejecutivo interactivo desarrollado en P
 
 ## Vista del Dashboard
 
-<img width="1408" height="791" alt="dashboard" src="https://github.com/user-attachments/assets/f5c7f660-252b-4b55-98fc-86f59b1cc60f" />
-
+<img width="1409" height="791" alt="dashboard" src="https://github.com/user-attachments/assets/f83d4a20-0de7-44f9-b6be-0a609419b23f" />
 
 ---
 ## Insights de Negocio
